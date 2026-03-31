@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Shafayat 👋
 
-<!--
-**shafayat83/shafayat83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer who loves building solutions, exploring new technologies, and contributing to open-source projects.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** [Add your languages, e.g., Python, JavaScript, C++]
+- **Frameworks/Libraries:** [Add your frameworks, e.g., React, Node.js, Django]
+- **Tools:** [Add your tools, e.g., Git, Docker, VS Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafayat83&show_icons=true&theme=radical&hide_border=true" alt="Shafayat's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayat83&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Reach Me At:
+- **LinkedIn:** [Insert your LinkedIn URL]
+- **Portfolio:** [Insert your Portfolio URL if you have one]
+- **Email:** [Insert your email address]
+
+---
+
+### ⚡ Fun Fact
+*Insert something interesting about yourself here! (e.g., "I drink too much coffee while coding" or "I love solving complex algorithms.")*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shafayat83&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
