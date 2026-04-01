@@ -198,36 +198,6 @@ const shafayat = {
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    FEATURED PROJECTS                              -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/shafayat83/Transcribe-OG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafayat83&repo=Transcribe-OG&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/shafayat83/Virtual-Mouse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafayat83&repo=Virtual-Mouse&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/shafayat83/Audiobook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafayat83&repo=Audiobook&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/shafayat83/Screen-Capture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafayat83&repo=Screen-Capture&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
 <!--                   WHAT I OFFER / SERVICES                         -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
