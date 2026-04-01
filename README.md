@@ -237,19 +237,6 @@ const shafayat = {
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                      TROPHIES                                     -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=shafayat83&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%"/>
-</div>
-
----
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
 <!--                  CONNECT WITH ME                                  -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
