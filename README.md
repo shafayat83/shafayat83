@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- ══════════════════════════════════════════════ -->
-<!--         CUSTOM PIXEL ART ANIMATED HEADER       -->
-<!--  Upload header.svg to your profile repo first  -->
-<!-- ══════════════════════════════════════════════ -->
-
 <svg width="854" height="200" viewBox="0 0 854 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <style>
@@ -314,6 +307,14 @@
 <line x1="0"   y1="198" x2="427" y2="198" stroke="#00e5ff" stroke-width="0.8" opacity="0.28"/>
 
 </svg>
+<div align="center">
+
+<!-- ══════════════════════════════════════════════ -->
+<!--         CUSTOM PIXEL ART ANIMATED HEADER       -->
+<!--  Upload header.svg to your profile repo first  -->
+<!-- ══════════════════════════════════════════════ -->
+
+![header](header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Websites+%26+Apps+with+AI+%F0%9F%A4%96;App+UI+Designer+%7C+Keyword+Researcher+%F0%9F%94%8D;Turning+Ideas+into+Usable+Products+%F0%9F%9A%80;Vibe+Coder+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
